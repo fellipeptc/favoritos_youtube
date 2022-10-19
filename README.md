@@ -1,16 +1,11 @@
-# favoritos_youtube
+## Favoritos Youtuber Flutter
 
-A new Flutter project.
+Aluno: Fellipe Prates  
+Projeto: App utiliza api do Youtube para carregar vídeos e salvar os seus favoritos.
 
-## Getting Started
+- Shared Preferences
+- Bloc
+- Rx
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Curso Flutter - Criação de Apps Android e IOS (Udemy)  
+[ Daniel Ciolfi | Ewerton Dutra | Startto.dev ] 
